@@ -1,1 +1,2 @@
-# Journey-to-the-lake
+# BaseParaJogo
+Aqui se encontra algumas bibliotecas da p5 para jogo de rolagem infinita
